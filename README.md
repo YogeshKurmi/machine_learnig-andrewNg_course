@@ -1,7 +1,13 @@
 
 # Machine Learning - Coursera
-hello , this repository contains my exercise work, The series of code is what I have completed and implemented while attending the course.it may help u at some points ...i have provided some alternative codes thru comments in the 
-exercise code
+hello , this repository contains my exercise work, The series of code is what I have completed and implemented while attending the course. this may help freshers at some points ...i have provided some alternative codes thru comments in the 
+exercise code.
+
+I came across this highly recommended 11 week course Machine Learning by Stanford University on Coursera by Professor Andrew Ng during  3rd year of my college and decided to give it a try. Having extensively used libraries in all my ML projects this course gave me a much clearer understanding of the ground level mechanics of the Math behind these great ML techniques. The intuitive approach in covering few complicated concepts just make it look so interesting and relatively easy.
+
+An amazing experience developing from scratch some of the very commonly used algorithms such as  >>> Linear Regression, Logistic Regression, SVM, Recommender Systems, Neural Networks, K Means, Anomaly Detection etc. and the techniques to optimize the math using vectorization.
+
+A completion certicate is uploaded on my Linkedin acount.
 
 
 ## Code Requirements
